@@ -1,3 +1,5 @@
 print ("Yael")
 age = input("How old are u? ")
 print(age)
+gender = input("What isyour gender? ")
+print(gender)
